@@ -1,0 +1,2 @@
+# Principles_of_Computer_Composition_CourseDesign
+计算机组成原理课程设计一基于自己设计的MIPS处理器开发猜数游戏
