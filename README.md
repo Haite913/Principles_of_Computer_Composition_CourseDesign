@@ -1,2 +1,3 @@
-# Principles_of_Computer_Composition_CourseDesign
 计算机组成原理课程设计一基于自己设计的MIPS处理器开发猜数游戏
+- 有问题可以通过QQ问我326085389(记得附上备注)
+- 如果觉得作者做的不错，可以通过知乎赞赏功能请我喝杯水哟！！！
